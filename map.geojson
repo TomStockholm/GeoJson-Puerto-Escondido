@@ -5,11 +5,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.0745, 15.8725]
+        "coordinates": [15.831663041771819, -97.04058542687623]
       },
       "properties": {
-        "name": "Bar Name",
-        "popup_html": "<b>Your Bar Name</b><br>Puerto Escondido",
+        "name": "Pussy Bar",
+        "popup_html": "<b>Pussy Bar</b><br>Puerto Escondido",
         "icon": {
           "color": "red",
           "icon": "glass",
