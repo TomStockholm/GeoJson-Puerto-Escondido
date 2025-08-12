@@ -1,1 +1,4 @@
 {"type":"FeatureCollection","features":[]}
+bar_lat, bar_lon = 15.8725, -97.0745
+popup_html 
+folium.Icon(color="red", icon="glass", prefix="fa")
