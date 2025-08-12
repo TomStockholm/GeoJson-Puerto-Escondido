@@ -1,4 +1,22 @@
 {"type":"FeatureCollection","features":[]}
-bar_lat, bar_lon = 15.8725, -97.0745
-popup_html 
-folium.Icon(color="red", icon="glass", prefix="fa")
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.0745, 15.8725]
+      },
+      "properties": {
+        "name": "Bar Name",
+        "popup_html": "<b>Your Bar Name</b><br>Puerto Escondido",
+        "icon": {
+          "color": "red",
+          "icon": "glass",
+          "prefix": "fa"
+        }
+      }
+    }
+  ]
+}
